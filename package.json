@@ -1,0 +1,19 @@
+{
+  "name": "typescript_studies",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/lodash": "^4.17.7",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
